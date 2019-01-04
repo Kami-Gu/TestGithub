@@ -1,7 +1,7 @@
 /*****************************************************************************
 ** File: main_app_external.c
 **
-** Description:
+** Descriptionmmda:
 **
 ** Copyright(c) 2008 Sunmedia Technologies - All Rights Reserved
 **
